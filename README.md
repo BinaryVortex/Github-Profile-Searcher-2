@@ -2,8 +2,6 @@
 
 A simple, lightweight Github profile searcher built with plain HTML, CSS and JavaScript.
 
-![App Screenshot](./Screenshot 2024-08-15 163327.png)
-
 ## Demo
 
 Open `index.html` in your browser (or host the repo on GitHub Pages) and enter a GitHub username to fetch the user's public profile and repositories using the GitHub public API.
