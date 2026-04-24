@@ -47,6 +47,8 @@ Contributions are welcome — feel free to open issues or submit pull requests t
 
 ## Screenshot
 
+![App screenshot](./Screenshot%202024-08-15%20163327.png)
+
 The screenshot above shows the app UI. The image file included in the repo is `Screenshot 2024-08-15 163327.png`.
 
 ## Notes
